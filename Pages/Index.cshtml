@@ -1,0 +1,84 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<style>
+    .btn:hover {
+        
+        background-color: rgb(235,85,79) !important;
+        border-color: rgb(235,85,79) !important;
+    }
+    .btn {
+        background-color: rgb(33, 82, 156) !important;
+        border-color: rgb(33, 82, 156) !important;
+    }
+    .jumbotron {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/port.jpg');
+        background-repeat: no-repeat;
+        height:500px
+    }
+
+</style>
+    <div class="jumbotron" style="padding-top: 90px; padding-bottom: 60px; width: 99.5vw; position: relative; left: calc(-50vw + 50%);">
+        <div id="jumbocontainer" class="container" style="padding-right:30px; padding-left:30px; vertical-align:middle">
+            <h1 class="display-3" style="text-align:center; color:white; font-weight:bold">Welcome to Amity Global Logistics!</h1>
+            <h3 style="text-align: center !important; color: rgb(235,85,79); width: 40vw; padding:30px; margin:auto">We are dedicated to giving you timely, cost-effective, quality transportation and storage. Click on the button below to learn more about our group!</h3>
+            <p style="text-align: center; padding-top: 20px"><a class="btn btn-primary btn-lg" href="About" role="button">Learn More</a></p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4" style="padding:20px">
+                <h2>Freight Forwarding</h2>
+                <p>Our air and ocean freight service destinations around the world.</p>
+                <p><a class="btn btn-secondary" href="Freight_Forwarding" role="button">Learn more</a></p>
+            </div>
+            <div class="col-md-4" style="padding:20px">
+                <h2>Transportation</h2>
+                <p>
+                    Our advanced transportation and payment solutions can help change the way you
+                    operate for the better
+                </p>
+                <p><a class="btn btn-secondary" href="Transportation" role="button">Learn more</a></p>
+            </div>
+            <div class="col-md-4" style="padding:20px">
+                <h2>Warehousing</h2>
+                <p>Our state of the art warehouse is secure and spacious.</p>
+                <p><a class="btn btn-secondary" href="Warehousing" role="button" >Learn more</a></p>
+            </div>
+        </div>
+    </div>
+
+        <hr>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4" style="padding:20px">
+                    <h2>Break Bulk and Project Cargo</h2>
+                    <p>Our solutions for project cargo are cost-efficient and worldwide.</p>
+                    <p><a class="btn btn-secondary" href="Break_Bulk" role="button">Learn more</a></p>
+                </div>
+                <div class="col-md-4" style="padding:20px">
+                    <h2>ISO Tanks and Flexi Tanks</h2>
+                    <p></p>
+                    <p><a class="btn btn-secondary" href="ISO_Tanks_and_Flexi_tanks" role="button">Learn more</a></p>
+                </div>
+                <div class="col-md-4" style="padding:20px">
+                    <h2>Cargo Insurance</h2>
+                    <p></p>
+                    <p><a class="btn btn-secondary" href="Cargo_Insurance" role="button">Learn more</a></p>
+                </div>
+            </div>
+        </div>
+
+            <hr>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mx-auto" style="padding:20px">
+                        <h2>Drayage Services</h2>
+                        <p></p>
+                        <p><a class="btn btn-secondary" href="Drayage_Services" role="button">Learn more</a></p>
+                    </div>
+                </div>
+            </div>

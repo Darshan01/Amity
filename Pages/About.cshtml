@@ -1,0 +1,55 @@
+﻿@page
+@model Amity_Global.Pages.AboutModel
+@{
+    <style>
+        .btn:hover {
+            background-color: rgb(235,85,79) !important;
+            border-color: rgb(235,85,79) !important;
+        }
+
+        .btn {
+            background-color: rgb(33, 82, 156) !important;
+            border-color: rgb(33, 82, 156) !important;
+        }
+
+        .jumbotron {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/trucks.jpg');
+            background-repeat: no-repeat;
+            height: 500px;
+        }
+    </style>
+    <div class="px-4 py-5 my-5 text-center" style="padding-top:90px !important; margin:0px !important">
+        <img class="d-block mx-auto mb-4" src="~/images/logo-removebg-preview.png" alt="" width="100" height="100">
+        <h1 class="display-5 fw-bold text-body-emphasis">Bringing The World Closer To You</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">
+                Amity is a fast growing and dynamic company providing an array of world-class
+                freight forwarding services. As a privately owned and independent company, we
+                pride ourselves on being able to provide with the best solutions
+                necessary for any kind of shipments.
+            </p>
+        </div>
+    </div>
+    <ul style="text-align:center; padding-bottom:40px" class="list-group list-group-flush">
+        <li class="list-group-item">Transparent Pricing</li>
+        <li class="list-group-item">On-Time Delivery</li>
+        <li class="list-group-item">Global Logistics Partner</li>
+        <li class="list-group-item">Quick Response</li>
+        <li class="list-group-item">Weekend Deliveries</li>
+        <li class="list-group-item">Warehousing Operation</li>
+    </ul>
+    <div class="jumbotron" style="padding-top: 60px; padding-bottom: 60px; width: 99.5vw; position: relative; left: calc(-50vw + 50%);">
+        <div id="jumbocontainer" class="container" style="padding-right:30px; padding-left:30px; vertical-align:middle">
+            <h1 class="display-3" style="text-align:center; color:white; font-weight:bold;">Why Us?</h1>
+            <h3 style="text-align: center !important; color: white; width: 60vw; padding:30px; margin:auto">
+                Our mission is to provide clients with international freight services across the globe.
+                We strive to provide speed, reliability, and quality service at competitive rates
+                
+            </h3>
+            <h3  style="text-align: center !important; color: white; width: 60vw; padding:30px; margin:auto">
+                Our vision is to cover freight shipments across the globe in various industries for our
+                clients. We aim to become the world class leader in freight solutions of any mode
+            </h3>
+        </div>
+    </div>
+}

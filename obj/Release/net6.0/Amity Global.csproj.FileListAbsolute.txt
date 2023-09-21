@@ -1,0 +1,28 @@
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/appsettings.Development.json
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/appsettings.json
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/Amity Global.staticwebassets.runtime.json
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/wwwroot/images/logo.jpg
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/Amity Global
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/Amity Global.deps.json
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/Amity Global.runtimeconfig.json
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/Amity Global.dll
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/ref/Amity Global.dll
+/Users/darshan/Projects/Amity Global/Amity Global/bin/Release/net6.0/Amity Global.pdb
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.csproj.AssemblyReference.cache
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.AssemblyInfoInputs.cache
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.AssemblyInfo.cs
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.csproj.CoreCompileInputs.cache
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.MvcApplicationPartsAssemblyInfo.cache
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.RazorAssemblyInfo.cache
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.RazorAssemblyInfo.cs
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/staticwebassets.build.json
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/staticwebassets.development.json
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/scopedcss/bundle/Amity Global.styles.css
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/scopedcss/projectbundle/Amity Global.bundle.scp.css
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.dll
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/ref/Amity Global.dll
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.pdb
+/Users/darshan/Projects/Amity Global/Amity Global/obj/Release/net6.0/Amity Global.genruntimeconfig.cache

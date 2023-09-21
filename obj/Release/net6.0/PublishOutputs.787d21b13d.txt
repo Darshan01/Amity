@@ -1,0 +1,8 @@
+/Users/darshan/Documents/Amity Global/Amity Global
+/Users/darshan/Documents/Amity Global/appsettings.Development.json
+/Users/darshan/Documents/Amity Global/appsettings.json
+/Users/darshan/Documents/Amity Global/wwwroot/images/logo.jpg
+/Users/darshan/Documents/Amity Global/Amity Global.dll
+/Users/darshan/Documents/Amity Global/Amity Global.deps.json
+/Users/darshan/Documents/Amity Global/Amity Global.runtimeconfig.json
+/Users/darshan/Documents/Amity Global/Amity Global.pdb
